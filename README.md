@@ -18,3 +18,4 @@ kitten WG document on 2020-06-11.
 | Robbie Harwood  | 2020-11-18  | -00              | missing background, nits | https://mailarchive.ietf.org/arch/msg/kitten/q_S6tD_VonAZCrU4i_gHHvUSOMs/ |
 | Alexey Melnikov | 2020-11-24  | -01              | LGTM                     | https://mailarchive.ietf.org/arch/msg/kitten/EvD7KgaGM_0xhdLJzmUH7gsTcJ4/ |
 | Watson Ladd     | 2020-11-29  | -01              | LGTM                     | https://mailarchive.ietf.org/arch/msg/kitten/ksj70J7D0d7LCerr-bg8YIUeC8A/ |
+| Nico Williams   | 2021-02-26  | -01              | LGTM (with one nit)      | https://mailarchive.ietf.org/arch/msg/kitten/0cTcZs45FdX3q2TwCn_Gdg8CKYQ/ |
