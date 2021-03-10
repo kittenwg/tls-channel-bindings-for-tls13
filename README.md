@@ -20,3 +20,4 @@ kitten WG document on 2020-06-11.
 | Watson Ladd     | 2020-11-29  | -01              | LGTM                     | https://mailarchive.ietf.org/arch/msg/kitten/ksj70J7D0d7LCerr-bg8YIUeC8A/ |
 | Nico Williams   | 2021-02-26  | -01              | LGTM (with one nit)      | https://mailarchive.ietf.org/arch/msg/kitten/0cTcZs45FdX3q2TwCn_Gdg8CKYQ/ |
 | Watson Ladd     | 2021-03-10  | -02              | LGTM                     | https://mailarchive.ietf.org/arch/msg/kitten/WRj04vqwlc0JpHfIJ4PR1qPcsRI/ |
+| Nico Williams   | 2021-03-10  | -02              | LGTM                     | https://mailarchive.ietf.org/arch/msg/kitten/PixnKOyvQk1UXk7ePd2fggwTeNY/ |
