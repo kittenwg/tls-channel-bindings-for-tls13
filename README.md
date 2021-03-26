@@ -23,3 +23,4 @@ kitten WG document on 2020-06-11.
 | Nico Williams    | 2021-03-10  | -02              | LGTM                       | https://mailarchive.ietf.org/arch/msg/kitten/PixnKOyvQk1UXk7ePd2fggwTeNY/ |
 | Jonathan Hoyland | 2021-03-10  | -02              | distinctness consideration | https://mailarchive.ietf.org/arch/msg/kitten/iu_8ugoOxQQUdv9LAX0v9hGJM0w/ |
 | Dave Cridland    | 2021-03-12  | -02              | minor organization stuff   | https://mailarchive.ietf.org/arch/msg/kitten/q6rfIMpITPKZEvifMX41d-qVilE/ |
+| Simon Josefsson  | 2021-03-25  | -02              | SCRAM/GS2 update?          | https://mailarchive.ietf.org/arch/msg/kitten/yFBTWMa59xEHM-fk2xAp6UfJk3g/ |
